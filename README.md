@@ -42,4 +42,4 @@
 
 Εκπαιδευτικός Πληροφορικής: Θεοδώρα Θεοδωρίδου
 
-![image]() Αυτή η εργασία χορηγείται με άδεια Creative Commons Αναφορά Δημιουργού 4.0 Διεθνές.
+![image](https://github.com/8dim-pfalirou-little-programmers/automatic-door/blob/main/CCBY.png) Αυτή η εργασία χορηγείται με άδεια Creative Commons Αναφορά Δημιουργού 4.0 Διεθνές.
