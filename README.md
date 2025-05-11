@@ -6,7 +6,7 @@
 1. Dejtiar, Fabian. " Public Restrooms: 15 Projects That Provide Functionality and Comfort in Urban Environments" 18 Nov 2024. ArchDaily. (Trans. Montano, Zoë) Accessed 11 May 2025. <https://www.archdaily.com/904061/public-bathrooms-examples-in-plan-and-section> ISSN 0719-8884
 2. Gao, Hongyi. (2025). Reimagining Public Restrooms: Integrating Art and Design in New York Citys Urban Spaces. Lecture Notes in Education Psychology and Public Media. 80. 187-190. 10.54254/2753-7048/2024.20504.
    
-Εκπαιδευτικοί στόχοι: 
+**Εκπαιδευτικοί στόχοι:** 
 
 Γνωριμία με το arduino.
 
